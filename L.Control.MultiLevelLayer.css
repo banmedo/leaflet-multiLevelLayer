@@ -1,6 +1,6 @@
 .switcher-console.leaflet-control{
 	background: rgba(255,255,255,.8);
-	border-radius: 10%;
+	border-radius: 5px;
 }
 .unstyled-list.master{
 	margin-left: 0;
