@@ -1,0 +1,12 @@
+.switcher-console.leaflet-control{
+	background: rgba(255,255,255,.8);
+	border-radius: 10%;
+}
+.unstyled-list.master{
+	margin-left: 0;
+    padding: 10;
+    width: 200;
+    max-height: 100;
+    overflow-y: auto;
+    word-wrap:break-word; 
+}
